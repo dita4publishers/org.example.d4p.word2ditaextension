@@ -6,6 +6,9 @@
   -->
 <plugin id="org.example.d4p.word2ditaextension">
   <require plugin="org.dita4publishers.word2dita"/> 
+  
+  <feature extension="package.support.name" value="Eliot Kimber"/>
+  <feature extension="package.support.email" value="ekimber@contrext.com"/>  
 
   <!-- This plugin just provides the transform in a reliable location
        relative to the base transform. It doesn't define its own
