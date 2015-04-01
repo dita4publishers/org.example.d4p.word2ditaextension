@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ 
+ <keydef keys="d4p-plugin-installation" href="http://www.dita4publishers.org/" scope="external">
+  <topicmeta>
+   <linktext>DITA For Publishers project</linktext>
+  </topicmeta>
+ </keydef>
+ <keydef keys="word2dita-intro" href="word2dita/word2dita-intro.xml" />
+ <keydef keys="word2dita-getting-started" href="word2dita/w2d-getting-started.xml"/>
+ <keydef keys="word2dita-plugin-usage" href="word2dita/word-to-dita-plugin-usage.xml"/>
+ <keydef keys="word2dita-dita-ant-task" href="word2dita/word-to-dita-ant-task.xml"/>
+ <keydef keys="word2dita-from-oxygen" href="word2dita_guide_and_reference/word2dita-from-oxygen.xml"/>
+ <keydef keys="word2dita-style-to-tag-map-overview" href="word2dita_guide_and_reference/style-to-tag-map-overview.xml"/>
+ <keydef keys="word2dita-mapping-case" href="word2dita/common-mapping-cases.xml"/>
+ <keydef keys="word2dita-troubleshooting" href="word2dita/troubleshooting-word2dita.xml"/>
+ <keydef keys="word2dita-video-tutorial" href="word2dita/word2dita-video-tutorial-01.xml"/>
+ <keydef keys="word2dita-customizing-the-transform" href="word2dita/customizing-the-transform.xml"/>
+ <keydef keys="word2dita-sample-customization" href="word2dita/sample-customization-transform.xml"/>
+ <keydef keys="word2dita-tips" href="word2dita/word-usage-tips.xml"/>
+ <keydef keys="word2dita-transform-parameters" href="word2dita/transform-parameters.xml"/>
+ <keydef keys="word2dita-ant-parameters" href="word2dita/word2dita-ant-parameters.xml"/>
+</map>
